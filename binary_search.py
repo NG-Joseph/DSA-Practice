@@ -16,3 +16,5 @@ def binary_search(list, target):
 
 
 print(binary_search(test_list, 22))
+
+
